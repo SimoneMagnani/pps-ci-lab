@@ -1,5 +1,9 @@
 package pps;
-
+/**
+ * This class logs my name with any prefix given by constructor parameter.
+ * @author Samubura
+ *
+ */
 public class Samubura {
 
 	private String prefix;
